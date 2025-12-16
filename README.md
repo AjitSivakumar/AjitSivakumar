@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Ajit Sivakumar, a student at NYU studying Computer Science and Mathematics. I'm currently looking for Summer 2026 roles in software and machine learning.
+
+
 <!--
 **AjitSivakumar/AjitSivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
